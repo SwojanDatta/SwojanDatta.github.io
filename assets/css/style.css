@@ -1292,10 +1292,10 @@ html, body {
 }
 
 .review .rectangle {
-  width: 80px;
-  height: 80px;
+  width: 200px;
+  height: 200px;
   border: 0;
-  margin: 20px auto 0;
+  margin: 80px auto 0;
   overflow: hidden;
   box-shadow: none;
 }
@@ -1332,7 +1332,7 @@ html, body {
 
 .review .review-author h3 {
   margin: 0;
-  font-size: 14px;
+  font-size: 34px;
   color: #ffffff;
 }
 
